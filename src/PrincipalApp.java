@@ -14,6 +14,7 @@ public class PrincipalApp {
 		
 		AnalisisEdad analisis = new AnalisisEdad();
 		System.out.println(analisis.comprobar(numeros));
+
 	}
 
 }
